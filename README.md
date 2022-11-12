@@ -22,7 +22,7 @@ git push -uf origin main
 
 ## Integrate with your tools
 
-- [✅] [Set up project integrations](https://gitlab.com/MegalithOffical/xlauncher/-/settings/integrations)
+- [:white_check_mark:] [Set up project integrations](https://gitlab.com/MegalithOffical/xlauncher/-/settings/integrations)
 
 ## Collaborate with your team
 
